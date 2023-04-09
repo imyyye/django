@@ -1,3 +1,4 @@
+#dkanakf
 """
 Django settings for practice project.
 
